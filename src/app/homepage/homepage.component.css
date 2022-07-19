@@ -1,0 +1,27 @@
+.mat-card {
+  width: 50%;
+}
+
+.main-player {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+
+.main-player .table {
+  width: fit-content;
+  margin-right: 30px;
+}
+
+.main-player .add-player {
+  margin-right: 30px;
+}
+
+button {
+  margin-right: 10px;
+  width: 150px;
+}
+
+table {
+  margin: 30px 0;
+}
